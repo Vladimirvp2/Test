@@ -1,0 +1,13 @@
+    $ cat .gitignore
+    # exclude everything except directory foo/bar
+    .DS_Store
+Library
+Temp
+ProjectSettings
+Assets/StrangeIoC
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+*.meta
